@@ -1,4 +1,4 @@
-# Spluck Lab
+# Splunk Lab
 
 ## Objective
 
