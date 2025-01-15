@@ -80,7 +80,7 @@ Installed Sysmon to enhance event logging capabilities.
 
 ### Configuring Inputs for Splunk Forwarder:
 
-Created an inputs.conf file in C:\Program Files\SplunkUniversalForwarder\etc\system\local on ADDC01 and target-PC, configuring settings as per MyDFIR's video.
+Created an inputs.conf file in C:\Program Files\SplunkUniversalForwarder\etc\system\local on ADDC01 and target-PC, configuring settings as per.
 
 <img src="https://github.com/PaulMiguelSec/Active-Directory-Lab/assets/174075754/7b973c10-11a6-4620-949e-bc233cf55736" width="700" />
 <img src="https://github.com/PaulMiguelSec/Active-Directory-Lab/assets/174075754/dc816365-9ca2-4435-af25-8d3e7e35aece" width="700" />
