@@ -65,7 +65,7 @@ Apply the changes:
 
 - Installed Splunk Enterprise on the Splunk server and configure it to start at boot.
 
-```mydfir@splunk:/opt/splunk/bin$ sudo ./splunk enable boot-start -user splunk```
+```tsoc@splunk:/opt/splunk/bin$ sudo ./splunk enable boot-start -user splunk```
 
 ### Setting Up Splunk Forwarder:
 Installed and configured Splunk Forwarder on ADDC01 and target-PC (Windows 10) to send data to the Splunk server as a receiving indexer.
